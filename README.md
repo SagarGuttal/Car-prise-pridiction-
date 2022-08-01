@@ -54,7 +54,9 @@ data, the aim is to use machine learning algorithms to develop models for predic
 - In this project i taken Random forest algorithm based on its performance and got 92 % accuracy.
 
 - Model performance
+
 ![](https://github.com/SagarGuttal/Deployment-of-model-in-website/blob/main/model%20performance.png)
 
--Distibution of error values 
+-Distibution of error values
+
 ![](https://github.com/SagarGuttal/Deployment-of-model-in-website/blob/main/MSE%20distrubution.png)
