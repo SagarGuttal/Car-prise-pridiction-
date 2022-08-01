@@ -31,6 +31,7 @@ data, the aim is to use machine learning algorithms to develop models for predic
 - Droping irrevelent columns in final datset.
 
 > Final data
+
 ![](https://github.com/SagarGuttal/Deployment-of-model-in-website/blob/main/Finaldf.png)
 ## Feature engineering
 - Above preprocessed dataset contains categorical values thats why converted into numarical values using pandas get_dummies methode
