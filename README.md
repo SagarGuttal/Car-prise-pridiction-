@@ -29,4 +29,5 @@ data, the aim is to use machine learning algorithms to develop models for predic
 - Checking the unique values in each columns.
 - Creating new feature column - No of years column.
 - Droping irrevelent columns in final datset.
+
 ![](https://github.com/SagarGuttal/Deployment-of-model-in-website/blob/main/Finaldf.png)
