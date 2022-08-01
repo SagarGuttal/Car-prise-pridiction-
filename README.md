@@ -20,4 +20,8 @@ data, the aim is to use machine learning algorithms to develop models for predic
 - Python libraries :- Numpy, Pandas, Sklearn, Matplot, Seaborn
 
 ## About Dataset
-- 
+- In this project i taken dataset from CarDekho.com comapany which is India's leading car search venture that helps users buy cars that are right for them.
+- The data set contains about 301 cars information and there prises. 
+- link of dataset = https://www.kaggle.com/datasets/pradeep8896/car-pricecar-dekho
+
+## Data preprocessing
