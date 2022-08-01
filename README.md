@@ -30,4 +30,31 @@ data, the aim is to use machine learning algorithms to develop models for predic
 - Creating new feature column - No of years column.
 - Droping irrevelent columns in final datset.
 
+> Final data
 ![](https://github.com/SagarGuttal/Deployment-of-model-in-website/blob/main/Finaldf.png)
+## Feature engineering
+- Above preprocessed dataset contains categorical values thats why converted into numarical values using pandas get_dummies methode
+- Selecting best feature columns for creating a model
+- Image for top features thats are helping to creat a best model for our project
+
+![](https://github.com/SagarGuttal/Deployment-of-model-in-website/blob/main/Top%20features.png)
+
+- Checking distribution of data points in each columns.
+- Checking colinearity among the columns and visualy anlyses the co-relation between the columns using Heat maps
+- Split out data into feature columns(X) and target column(y) 
+- Taking 80% of the data for training and remaning 20% data for testing
+
+## Model building
+- In our model building i taken ensembling technique algorithms - Random forest, Gradient boosting, Adaboost regressor for training our model
+- Taking all model for training and checking each model performance based on MSE(Mean Squared Error) and R_2 score.
+- Taking one best performing model or less error and more R_2 score model.
+- Improving the model performance by tunning the parameters or we call it as Hyperparameter tunning.
+- In hyperparameter taking random values and using Cross validation technique for reducing Overfitting problems in our model
+- finally selecting tunnned parameters and again trained the model and check the performace 
+- In this project i taken Random forest algorithm based on its performance and got 92 % accuracy.
+
+- Model performance
+![](https://github.com/SagarGuttal/Deployment-of-model-in-website/blob/main/model%20performance.png)
+
+-Distibution of error values 
+![](https://github.com/SagarGuttal/Deployment-of-model-in-website/blob/main/MSE%20distrubution.png)
