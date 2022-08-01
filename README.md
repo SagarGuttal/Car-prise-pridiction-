@@ -25,3 +25,8 @@ data, the aim is to use machine learning algorithms to develop models for predic
 - link of dataset = https://www.kaggle.com/datasets/pradeep8896/car-pricecar-dekho
 
 ## Data preprocessing
+- Checking the null values.
+- Checking the unique values in each columns.
+- Creating new feature column - No of years column.
+- Droping irrevelent columns in final datset.
+![](https://github.com/SagarGuttal/Deployment-of-model-in-website/blob/main/Finaldf.png)
